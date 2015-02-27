@@ -1,0 +1,19 @@
+.arrows{
+    cursor:pointer;
+    display:inline;
+}
+.option
+{
+   display:inline;
+}
+#main
+{
+    display:none;
+}
+#preload
+{
+    display:none;
+}
+input{
+    display:none;
+}
